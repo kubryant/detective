@@ -46,11 +46,31 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Screen3_RightWall.cs" />
-     <Compile Include="Assets\Scripts\FollowPlayer.cs" />
-     <Compile Include="Assets\Scripts\Player.cs" />
-     <Compile Include="Assets\Scripts\Screen1_RightWall.cs" />
-     <Compile Include="Assets\Scripts\Screen2_OpenDoor.cs" />
+     <Compile Include="Assets\Script\AlleyScript.cs" />
+     <Compile Include="Assets\Script\Boxes.cs" />
+     <Compile Include="Assets\Script\Car.cs" />
+     <Compile Include="Assets\Script\DogWall.cs" />
+     <Compile Include="Assets\Script\FinalControl.cs" />
+     <Compile Include="Assets\Script\FollowPlayer.cs" />
+     <Compile Include="Assets\Script\GameText.cs" />
+     <Compile Include="Assets\Script\HardBoiledDetective.cs" />
+     <Compile Include="Assets\Script\HardBoiledDetective2.cs" />
+     <Compile Include="Assets\Script\HardBoiledLights.cs" />
+     <Compile Include="Assets\Script\HouseScript.cs" />
+     <Compile Include="Assets\Script\License.cs" />
+     <Compile Include="Assets\Script\Newspaper.cs" />
+     <Compile Include="Assets\Script\Player.cs" />
+     <Compile Include="Assets\Script\PostmodernInvestigation.cs" />
+     <Compile Include="Assets\Script\Screen2_OpenDoor.cs" />
+     <Compile Include="Assets\Script\TravelRight.cs" />
+     <Compile Include="Assets\Script\Wallet.cs" />
+     <Compile Include="Assets\Script\Watson.cs" />
+     <Compile Include="Assets\Script\Watson1_5.cs" />
+     <Compile Include="Assets\Script\Watson2.cs" />
+     <Compile Include="Assets\Script\Watson3.cs" />
+     <Compile Include="Assets\Script\Woman.cs" />
+     <Compile Include="Assets\Script\Woman2.cs" />
+     <Compile Include="Assets\Start.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
