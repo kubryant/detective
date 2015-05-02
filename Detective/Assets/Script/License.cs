@@ -18,7 +18,6 @@ public class License : MonoBehaviour {
 		if(Input.GetButton("Close")) {
 			player.GetComponent<Player> ().flipMove ();
 			script.setText("");
-			player.GetComponent<Player> ().flipInvestigate ();
 			Destroy (wallet, 0.2f);
 			Destroy(gameObject);
 		}

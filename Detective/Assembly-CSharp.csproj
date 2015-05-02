@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Music.cs" />
      <Compile Include="Assets\Script\AlleyScript.cs" />
      <Compile Include="Assets\Script\Boxes.cs" />
      <Compile Include="Assets\Script\Car.cs" />
@@ -62,6 +63,7 @@
      <Compile Include="Assets\Script\Player.cs" />
      <Compile Include="Assets\Script\PostmodernInvestigation.cs" />
      <Compile Include="Assets\Script\Screen2_OpenDoor.cs" />
+     <Compile Include="Assets\Script\Start.cs" />
      <Compile Include="Assets\Script\TravelRight.cs" />
      <Compile Include="Assets\Script\Wallet.cs" />
      <Compile Include="Assets\Script\Watson.cs" />
@@ -70,7 +72,6 @@
      <Compile Include="Assets\Script\Watson3.cs" />
      <Compile Include="Assets\Script\Woman.cs" />
      <Compile Include="Assets\Script\Woman2.cs" />
-     <Compile Include="Assets\Start.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

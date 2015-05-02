@@ -4,6 +4,6 @@ using System.Collections;
 public class Start : MonoBehaviour {
 
 	void OnMouseDown() {
-		Application.LoadLevel (0);
+		Application.LoadLevel (1);
 	}
 }

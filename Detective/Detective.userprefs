@@ -1,9 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Start.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\License.cs">
     <Files>
-      <File FileName="Assets\Start.cs" Line="7" Column="29" />
+      <File FileName="Assets\Script\Wallet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Start.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\FinalControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameText.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AlleyScript.cs" Line="1" Column="1" />
       <File FileName="Assets\Script\Screen2_OpenDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\License.cs" Line="21" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

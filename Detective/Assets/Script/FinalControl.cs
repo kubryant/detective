@@ -5,6 +5,7 @@ public class FinalControl : MonoBehaviour {
 	public GameObject player;
 	public GameObject bench;
 	public Sprite back;
+	public GameText script;
 
 	private int phase = 0;
 
@@ -35,6 +36,9 @@ public class FinalControl : MonoBehaviour {
 				phase++;
 		} else if (phase == 3) {
 			player.GetComponent<SpriteRenderer>().sprite = back;
+			script.setText("The End - Play Again?");
+			script.setOver();
+			phase++;
 		}
 	}
 }
